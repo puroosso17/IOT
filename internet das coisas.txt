@@ -1,0 +1,25 @@
+o que são "internet"
+
+Por meio da internet temos uma imensa biblioteca de conteudos disponiveis de forma gratuita para acesso, que nos permite adiquirir conhecimento sempre que necessario, sendo algo extremamente importante para nossas vidas. Chegamos a um ponto, onde necessitamos de internet para tudo, e por que não integrala ao nosso dia a dia? Podendo agilizar processos com um simples estralar de dedos, como abrir um porta via comando de voz, acender luzes a partir de um estralar de dedos, entre outras coisas inimaginaveis.  
+
+o que são "coisas"? 
+
+Mas de que "coisa" estamos falando? A resposta é simples e objetiva "qualquer coisa". A partir de um relogio ou uma geladeira, até carros, maquinas, computadores e smartphones. Qualquer coisa que for imaginavel você pode integrala na internet/internet das coisa pupolarmente conhecido como iot.
+
+tipos de coisas "sensores e mostrar exemplos de sensores"
+
+Aqui podemos ver dois tipos de sensores, o MCU e o SBC onde serão nosso ponto crucial para intermediação entre uma coisa e a rede.
+
+topologia fisica "packt tracer" (print cenario)
+explicar sobre o cenario
+
+Bom como todos podem ver, eu não desenvolvi uma topologia pelo packt tracer, mas optei por mostrar esse Projeto, chamado de "Planta IoT com ESP8266 NodeMCU", que consiste em fazer o NodeMCU enviar, a cada trinta segundos, a umidade percentual medida para um canal do ThingSpeak (um serviço que oferece uma infraestrutura de web para envio e recebimento de dados gerados em Arduino ou qualquer outro dispositivo com recursos para comunicação em rede). Podendo identificar quando a umidade da planta estara em um nivel abaixo do recomendado e assim realizar seu regamento.
+
+
+oque iot?
+
+É o conceito de intercomunicação entre objetos por uma rede, seja para a otimização de uma tarefa ou a agilidade de um processo. 
+
+
+
+
